@@ -10,4 +10,7 @@ public class First {
     void method3(){
 
     }
+    void method4(){
+
+    }
 }
